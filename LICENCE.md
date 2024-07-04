@@ -5,15 +5,6 @@ You must follow these terms when redistributing, modifying, or copying this work
 Preamble/Explanation
 This licence aims to make sure that the work is being used for good, while not being too restrictive. The TL;DR is that you shouldn't use this for harm, basically.
 
-Definitions
-Terms of licence redistribution
-You are free to redistribute this licence unmodified, however you must change the name if you want to modify it, with the exception of changing 'I' to 'we'.
-
-The user must give appropriate credit to the licensor, and provide a copy of this licence.
-
-'I', 'me', 'we', 'us' refers to the creator/creators of this work.
-
-'Users' refers to anyone using this software..
 
 Terms
 0. This notice must be included in any redistributions, modifications, or copies of the software.
@@ -29,7 +20,7 @@ This can include, but is not limited to: ableism, racism, sexism, homophobia, tr
 
 5. Unless the user has made large contributions to the software, or uses a small part of it only as a part of a new piece of software or catalogue, they are prohibited from selling the software. That prohibition includes processing the software with machine learning or artificial intelligence models, unless the model is open source as defined by the open source initiative, uses this licence, or uses the Opinionated Queer Licence.
 
-6. The software may not be used by anyone who's a member of the UK 'Reform UK' party, unless the software has been included within a larger software package (e.g. an operating system).
+6. The software may not be used by anyone who is a member of the UK 'Reform UK' party, unless the software has been included within a larger software package (e.g. an operating system).
 
 7. The software may not be used by an authoritarian government under any circumstances.
 
