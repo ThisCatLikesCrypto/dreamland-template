@@ -2,11 +2,11 @@
 
 You must follow these terms when redistributing, modifying, or copying this work.
 
-Preamble/Explanation
+Preamble/Explanation  
 This licence aims to make sure that the work is being used for good, while not being too restrictive. The TL;DR is that you shouldn't use this for harm, basically.
 
 
-Terms
+Terms  
 0. This notice must be included in any redistributions, modifications, or copies of the software.
 
 1. No one shall use the software to promote prejudiced or bigoted views or for prejudiced or bigoted purposes.
